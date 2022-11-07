@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @giovaninazareno
 - 👀 I’m interested in  ENSINAR
 - 🌱 I’m currently learning  NOVAS TECNOLOGIAS
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on NOVOS PROJETOS
 - 📫 How to reach me ...
 
 <!---
