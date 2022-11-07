@@ -2,7 +2,7 @@
 - 👀 I’m interested in  ENSINAR
 - 🌱 I’m currently learning  NOVAS TECNOLOGIAS
 - 💞️ I’m looking to collaborate on NOVOS PROJETOS
-- 📫 How to reach me ...
+- 📫 How to reach me @giovaninazareno (instagram)
 
 <!---
 giovaninazareno/giovaninazareno is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
